@@ -38,7 +38,7 @@ export default function Home() {
           I have built{" "}
           <Link
             target="_blank"
-            href="https://unkey.dev"
+            href="https://jsxkit.com"
             className="underline duration-500 hover:text-zinc-300"
           >
             jsxkit.com
